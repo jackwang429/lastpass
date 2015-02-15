@@ -1,0 +1,2 @@
+# lastpass
+lastpass手机版是要收费的，这个小应用程序使用lastpass电脑网页端插件导出的csv文件来方便密码的查找和复制
